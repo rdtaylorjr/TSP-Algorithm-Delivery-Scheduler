@@ -1,0 +1,5 @@
+0	1	delivery	Packages 13, 14, 15, 16, 19, 20 delivered together
+1	2	load	Delayed packages 6, 25, 28, 32 loaded onto Truck 1
+2	3	load	Packages 3, 18, 36, 38 loaded onto Truck 2
+3	3	address	Package 9 cannot be delivered - Wrong address	9	Not Delivered - Wrong Address
+4	4	update	Package 9 delivery address updated	9	On Truck 2 - Address Updated	19	410 S State St	Salt Lake City, UT	84111	10	20
