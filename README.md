@@ -4,5 +4,5 @@ Implements a TSP approximation algorithm in order to optimize package delivery r
 
 Includes a detailed writeup and analysis of the time and space complexity of the program
 
-Programming Language: Python
+Programming Language: Python<br/>
 Final Project for C950 Data Structures and Algorithms II
