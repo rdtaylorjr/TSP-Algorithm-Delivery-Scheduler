@@ -4,5 +4,5 @@ Implements a traveling salesperson problem (TSP) approximation algorithm in orde
 
 Includes a detailed writeup and analysis of the time and space complexity of the program
 
-Programming Language: Python<br/>
+Programming language: Python<br/>
 C950 Data Structures and Algorithms II
