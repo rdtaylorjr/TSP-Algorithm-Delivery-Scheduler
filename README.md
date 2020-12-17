@@ -6,4 +6,4 @@ Includes a detailed writeup and analysis of the time and space complexity of the
 
 Programming language: Python
 
-C950 Data Structures and Algorithms II 
+C950 Data Structures and Algorithms II
